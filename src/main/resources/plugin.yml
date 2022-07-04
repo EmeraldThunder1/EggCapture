@@ -1,0 +1,4 @@
+main: com.emerald.thunder.EggCapture
+name: EggCapture
+version: 1.0
+api-version: 1.19
